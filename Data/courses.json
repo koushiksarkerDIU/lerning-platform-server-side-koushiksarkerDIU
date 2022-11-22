@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "name": "Graphics Design",
+        "img": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?w=2000"
+    },
+    {
+        "id": "02",
+        "name": "Web Development",
+        "img": "https://miro.medium.com/max/1200/0*M4bxiCIjcTK-2Xr6.jpeg"
+    },
+    {
+        "id": "03",
+        "name": "Machine Learning",
+        "img": "https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg"
+    },
+    {
+        "id": "04",
+        "name": "Artificial Intelligence",
+        "img": "https://images.newscientist.com/wp-content/uploads/2022/10/17121630/SEI_129843131.jpg"
+    },
+    {
+        "id": "05",
+        "name": "C Programming Language",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
+    },
+    {
+        "id": "06",
+        "name": "OOP with Python",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+    }
+]
