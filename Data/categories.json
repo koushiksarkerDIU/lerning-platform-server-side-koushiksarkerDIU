@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Graphics Design"
+    },
+    {
+        "id": "02",
+        "name": "Web Development"
+    },
+    {
+        "id": "03",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "04",
+        "name": "Artificial Intelligence"
+    },
+    {
+        "id": "05",
+        "name": "C Programming Language"
+    },
+    {
+        "id": "06",
+        "name": "OOP with Python"
+    }
+]
