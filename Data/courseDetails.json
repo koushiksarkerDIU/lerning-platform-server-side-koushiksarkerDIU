@@ -1,0 +1,128 @@
+[
+    {
+        "id": "01",
+        "name": "Graphics Design",
+        "img": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?w=2000",
+        "course_duration": "06",
+        "course_curriculum": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+        "details_1": {
+            "heading": "Photoshop Basics Tutorials",
+            "p": "Learn the basics of Adobe Photoshop! These tutorials are perfect for Photoshop beginners or anyone who just needs to refresh their skills, covering the essentials topics you need to know to get up to speed with Photoshop quickly! Use the links below to jump to lesson chapters and other popular topics, or scroll down for our latest Photoshop Basics tutorials!"
+        },
+        "details_2": {
+            "heading": "Illustrator Basics Tutorials",
+            "p": "Adobe Illustrator tutorials offer all kinds of tips to improve your workflow and help you get the most from Adobe's industry-standard vector art programme. Whether you want to design a simple icon or complex illustrations, the more techniques and shortcuts you're familiar with, the quicker you'll be able to achieve the results that you're after."
+        },
+        "details_3": {
+            "heading": "logo design Basics Tutorials",
+            "p": "To illustrate this concept, think of logos like people. We prefer to be called by our names - Jacob, Emily, Tyler - rather than by the confusing and forgettable description of ourselves such as 'the guy who always wears pink and has blonde hair'. In this same way, a logo should not literally describe what the business does but rather identify the business in a way that is recognisable and memorable."
+        },
+        "ratting": "4.3",
+        "price": "19.99"
+    },
+    {
+        "id": "02",
+        "name": "Frontend Web Development",
+        "img": "https://miro.medium.com/max/1200/0*M4bxiCIjcTK-2Xr6.jpeg",
+        "course_duration": "04",
+        "course_curriculum": "Learn Complete Front End Web Development with HTML5, CSS3, Bootstrap 5, JavaScript, ECMAScript 6, Angular & React JS",
+        "details_1": {
+            "heading": "HTML5 Basics Tutorials",
+            "p": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."
+        },
+        "details_2": {
+            "heading": "CSS3 Basics Tutorials",
+            "p": "CSS (Cascading Style Sheets) is the code that styles web content. CSS basics walks through what you need to get started. We'll answer questions like: How do I make text red? How do I make content display at a certain location in the (webpage) layout? How do I decorate my webpage with background images and colors?"
+        },
+        "details_3": {
+            "heading": "JavaScript Basics Tutorials",
+            "p": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible."
+        },
+        "ratting": "4.3",
+        "price": "15.99"
+    },
+    {
+        "id": "03",
+        "name": "Machine Learning with Python",
+        "img": "https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg",
+        "course_duration": "06",
+        "course_curriculum": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+        "details_1": {
+            "heading": "NumPy Basics Tutorials",
+            "p": "NumPy (Numerical Python) is an open source Python library that’s used in almost every field of science and engineering. It’s the universal standard for working with numerical data in Python, and it’s at the core of the scientific Python and PyData ecosystems. NumPy users include everyone from beginning coders to experienced researchers doing state-of-the-art scientific and industrial research and development. The NumPy API is used extensively in Pandas, SciPy, Matplotlib, scikit-learn, scikit-image and most other data science and scientific Python packages."
+        },
+        "details_2": {
+            "heading": "Pandas Basics Tutorials",
+            "p": "Pandas is a high-level data manipulation tool developed by Wes McKinney. It is built on the Numpy package and its key data structure is called the DataFrame. DataFrames allow you to store and manipulate tabular data in rows of observations and columns of variables."
+        },
+        "details_3": {
+            "heading": " Basics Seaborn Tutorials",
+            "p": "Seaborn helps you explore and understand your data. Its plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots. Its dataset-oriented, declarative API lets you focus on what the different elements of your plots mean, rather than on the details of how to draw them."
+        },
+        "ratting": "4.3",
+        "price": "29.99"
+    },
+    {
+        "id": "04",
+        "name": "Artificial Intelligence",
+        "img": "https://images.newscientist.com/wp-content/uploads/2022/10/17121630/SEI_129843131.jpg",
+        "course_duration": "06",
+        "course_curriculum": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
+        "details_1": {
+            "heading": "Data Science Basics Tutorials",
+            "p": "Data Science is the area of study which involves extracting insights from vast amounts of data using various scientific methods, algorithms, and processes. It helps you to discover hidden patterns from the raw data. The term Data Science has emerged because of the evolution of mathematical statistics, data analysis, and big data.  Data Science is an interdisciplinary field that allows you to extract knowledge from structured or unstructured data. Data science enables you to translate a business problem into a research project and then translate it back into a practical solution."
+        },
+        "details_2": {
+            "heading": "Basics Machine Learning Tutorials",
+            "p": "Machine Learning is an application of artificial intelligence where a computer/machine learns from the past experiences (input data) and makes future predictions. The performance of such a system should be at least human level. Machine Learning is generally categorized into three types: Supervised Learning, Unsupervised Learning, Reinforcement learning "
+        },
+        "details_3": {
+            "heading": "Deep Learning Tutorials",
+            "p": "At a very basic level, deep learning is a machine learning technique. It teaches a computer to filter inputs through layers to learn how to predict and classify information. Observations can be in the form of images, text, or sound. The inspiration for deep learning is the way that the human brain filters information. Its purpose is to mimic how the human brain works to create some real magic."
+        },
+        "ratting": "4.3",
+        "price": "29.99"
+    },
+    {
+        "id": "05",
+        "name": "Programming with C",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png",
+        "course_duration": "06",
+        "course_curriculum": "Become a True Master of the C Programming Language - Confidently Apply for Real Time or Embedded C Jobs or contracts!",
+        "details_1": {
+            "heading": "Basics codeblock IDE Tutorials",
+            "p": "Code::Blocks is a free, open-source cross-platform IDE that supports multiple compilers including GCC, Clang and Visual C++. It is developed in C++ using wxWidgets as the GUI toolkit. Using a plugin architecture, its capabilities and features are defined by the provided plugins."
+        },
+        "details_2": {
+            "heading": "C programming Tutorials",
+            "p": "C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. Our C tutorial explains each topic with programs. The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc."
+        },
+        "details_3": {
+            "heading": "More about C",
+            "p": "C language is considered as the mother language of all the modern programming languages because most of the compilers, JVMs, Kernels, etc. are written in C language, and most of the programming languages follow C syntax, for example, C++, Java, C#, etc. It provides the core concepts like the array, strings, functions, file handling, etc. that are being used in many languages like C++, Java, C#, etc."
+        },
+        "ratting": "4.3",
+        "price": "19.99"
+    },
+    {
+        "id": "06",
+        "name": "OOP with Python",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+        "course_duration": "06",
+        "course_curriculum": "Learn Object Oriented Programming in Python with Step-by-Step Video Lectures, Projects, Exercises, Diagrams and More.",
+        "details_1": {
+            "heading": "What is OOP",
+            "p": "Object-oriented programming has four basic concepts: encapsulation, abstraction, inheritance and polymorphism. While these concepts may seem complex, understanding the general framework of how they work will help you understand the basics of an OOP computer program. "
+        },
+        "details_2": {
+            "heading": "OOP with Python",
+            "p": "In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data."
+        },
+        "details_3": {
+            "heading": "Main Concepts of Object-Oriented Programming",
+            "p": "Class, Objects, Polymorphism,Encapsulation, Inheritance , Data Abstraction"
+        },
+        "ratting": "4.3",
+        "price": "29.99"
+    }
+]
