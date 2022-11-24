@@ -19,6 +19,12 @@ app.get('/course/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourse = courseDetails.find(c => c.id === id)
     res.send(selectedCourse)
+});
+
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courseDetails.find(c => c.id === id)
+    res.send(selectedCourse)
 })
 
 app.listen(Port, () => {

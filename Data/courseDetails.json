@@ -18,7 +18,8 @@
             "p": "To illustrate this concept, think of logos like people. We prefer to be called by our names - Jacob, Emily, Tyler - rather than by the confusing and forgettable description of ourselves such as 'the guy who always wears pink and has blonde hair'. In this same way, a logo should not literally describe what the business does but rather identify the business in a way that is recognisable and memorable."
         },
         "ratting": "4.3",
-        "price": "19.99"
+        "price": "19.99",
+        "course_instructor": "Shuvo Sarker"
     },
     {
         "id": "02",
@@ -39,7 +40,8 @@
             "p": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible."
         },
         "ratting": "4.3",
-        "price": "15.99"
+        "price": "15.99",
+        "course_instructor": "Avijit Biswas"
     },
     {
         "id": "03",
@@ -60,7 +62,8 @@
             "p": "Seaborn helps you explore and understand your data. Its plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots. Its dataset-oriented, declarative API lets you focus on what the different elements of your plots mean, rather than on the details of how to draw them."
         },
         "ratting": "4.3",
-        "price": "29.99"
+        "price": "29.99",
+        "course_instructor": "Nayem Ferdous Khan"
     },
     {
         "id": "04",
@@ -81,7 +84,8 @@
             "p": "At a very basic level, deep learning is a machine learning technique. It teaches a computer to filter inputs through layers to learn how to predict and classify information. Observations can be in the form of images, text, or sound. The inspiration for deep learning is the way that the human brain filters information. Its purpose is to mimic how the human brain works to create some real magic."
         },
         "ratting": "4.3",
-        "price": "29.99"
+        "price": "29.99",
+        "course_instructor": "Shishir Sarker"
     },
     {
         "id": "05",
@@ -102,7 +106,8 @@
             "p": "C language is considered as the mother language of all the modern programming languages because most of the compilers, JVMs, Kernels, etc. are written in C language, and most of the programming languages follow C syntax, for example, C++, Java, C#, etc. It provides the core concepts like the array, strings, functions, file handling, etc. that are being used in many languages like C++, Java, C#, etc."
         },
         "ratting": "4.3",
-        "price": "19.99"
+        "price": "19.99",
+        "course_instructor": "Rafi Islam"
     },
     {
         "id": "06",
@@ -123,6 +128,7 @@
             "p": "Class, Objects, Polymorphism,Encapsulation, Inheritance , Data Abstraction"
         },
         "ratting": "4.3",
-        "price": "29.99"
+        "price": "29.99",
+        "course_instructor": "Evan Chowdhury"
     }
 ]
