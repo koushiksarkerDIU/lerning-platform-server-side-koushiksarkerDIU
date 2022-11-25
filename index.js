@@ -30,3 +30,5 @@ app.get('/checkout/:id', (req, res) => {
 app.listen(Port, () => {
     console.log("server is running")
 });
+
+module.exports = app;
